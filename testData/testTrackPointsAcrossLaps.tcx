@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<TrainingCenterDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2">
+  <Activities>
+    <Activity Sport="Other">
+      <Id>2015-09-12T16:54:30Z</Id>
+      <Lap StartTime="2015-09-12T16:54:30Z">
+        <TotalTimeSeconds>0</TotalTimeSeconds>
+        <DistanceMeters>0</DistanceMeters>
+        <Calories>0</Calories>
+        <Intensity>Active</Intensity>
+        <TriggerMethod>Manual</TriggerMethod>
+        <Track />
+      </Lap>
+      <Lap StartTime="2015-09-12T16:54:30Z">
+        <TotalTimeSeconds>11439.573999999999</TotalTimeSeconds>
+        <DistanceMeters>20814</DistanceMeters>
+        <MaximumSpeed>2.0999999046325684</MaximumSpeed>
+        <Calories>0</Calories>
+        <Intensity>Active</Intensity>
+        <TriggerMethod>Manual</TriggerMethod>
+        <Track>
+          <Trackpoint>
+            <Time>2015-09-12T16:54:35Z</Time>
+            <Position>
+              <LatitudeDegrees>47.59933</LatitudeDegrees>
+              <LongitudeDegrees>-122.214486</LongitudeDegrees>
+            </Position>
+            <AltitudeMeters>8.0917129537207746</AltitudeMeters>
+            <HeartRateBpm>
+              <Value>136</Value>
+            </HeartRateBpm>
+          </Trackpoint>
+        </Track>
+      </Lap>
+      <Lap StartTime="2015-09-12T16:54:30Z">
+        <TotalTimeSeconds>11439.573999999999</TotalTimeSeconds>
+        <DistanceMeters>20814</DistanceMeters>
+        <MaximumSpeed>2.0999999046325684</MaximumSpeed>
+        <Calories>0</Calories>
+        <Intensity>Active</Intensity>
+        <TriggerMethod>Manual</TriggerMethod>
+        <Track>
+          <Trackpoint>
+            <Time>2015-09-12T16:54:35Z</Time>
+            <Position>
+              <LatitudeDegrees>47.59933</LatitudeDegrees>
+              <LongitudeDegrees>-122.214486</LongitudeDegrees>
+            </Position>
+            <AltitudeMeters>8.0917129537207746</AltitudeMeters>
+            <HeartRateBpm>
+              <Value>136</Value>
+            </HeartRateBpm>
+          </Trackpoint>
+        </Track>
+      </Lap>
+      <Creator xsi:type="Device_t">
+        <Name>Suunto Ambit2 S</Name>
+        <UnitId>0</UnitId>
+        <ProductID>0</ProductID>
+      </Creator>
+    </Activity>
+  </Activities>
+</TrainingCenterDatabase>
